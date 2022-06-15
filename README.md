@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShot
 
-<img src="assets/screenshots/light.png" height="500em"/>&nbsp;<img src="assets/screenshots/dark.png" height="500em" />
+<img src="assets/screenshots/light.jpg" height="500em"/>&nbsp;<img src="assets/screenshots/dark.jpg" height="500em" />
 
